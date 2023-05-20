@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.navbar{
+  font-size: 200%;
+  text-align: center;
+  background-color: darkgray;
+}
+
+@font-face{
+font-family:srigalaDemo;
+src: url(./srigalademo\ \(5\)/SrigalaDemoRegular.ttf);
+
+
+  
+}
+
+.bob{
+font-family:srigalaDemo; 
+}
